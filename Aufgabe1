@@ -1,0 +1,13 @@
+
+  - your identifier I on the Web or Internet e.g., a foaf:Person
+  - a list of your work or educational experience e.g., worked at: company A, B. education: went to school X, Y
+    your interests in P, Q, R
+
+
+my identifier I:
+[[name::Tobias Rentsch]] has the homepage [[foaf:homepage::http://tobir.ch]]
+
+work experience:
+[[name::Tobias Rentsch]] has done the apprenticeship at [[homepage::https://sbb.ch/sbb-konzern/ueber-die-sbb/organisation/personenverkehr]]
+[[name::Tobias Rentsch]] worked as a system engineer at [[homepage::http://rtc.ch]]
+[[name::Tobias Rentsch]] has done the apprenticeship at [[:homepage::http://sbb.ch]]
