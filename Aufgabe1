@@ -1,9 +1,17 @@
 http://tobir.info
 
-http://tobir.info/#me
+http://tobir.info/me
 http://tobir.info/cv#sbb
 http://tobir.info/cv#rtc
 http://tobir.info/cv#csl
 http://tobir.info/cv#insel
+http://tobir.info/int#football
+http://tobir.info/int#photography
+http://tobir.info/int#climbing
 
-Überlegungen erklären
+My website starts with the /me page. There are the information about my person.
+One of the other sites is the CV. This is used to show where I have worked before. With the # I can refer directly on the
+same page to the correct part of my CV. I have done it the same way for my interests.
+I don't think this IRIs will be used in 100 years. First of all, I think the web as we know it today will disappear in a couple
+of years. So I hope my IRIs will last at least for 5 years.
+
