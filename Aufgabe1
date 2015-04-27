@@ -15,3 +15,7 @@ same page to the correct part of my CV. I have done it the same way for my inter
 I don't think this IRIs will be used in 100 years. First of all, I think the web as we know it today will disappear in a couple
 of years. So I hope my IRIs will last at least for 5 years.
 
+ELI5:
+Linked Data is a way of connecting data through the web. So every data has a unique name, called URI. With this URI the data can
+be identified and reach with HTTP (a protocol). Each URI should contain information about its content and links to other URIs.
+With the rules written down by Tim Berners-Lee, Linked Data creates a web full of information.
