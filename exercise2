@@ -5,7 +5,7 @@
  
  <http://tobir.info/me>
  rdf:Type foaf:Person ;
- foag:accounts <http://facebook.com/tobias.rentsch.9> , <http:youtube.com/tobias.rentsch> , <http://tobiiir.jimdo.com/> ;
+ foaf:accounts <http://facebook.com/tobias.rentsch.9> , <http:youtube.com/tobias.rentsch> , <http://tobiiir.jimdo.com/> ;
  foaf:interests wiki:Association_football , wiki:Sport_climbing , wiki:Bitcoin wiki:Photography ;
  foaf:contact <mailto:tobias.rentsch@gmail.com> ;
  foaf:friends <http://ledergerber91.ch> ;
