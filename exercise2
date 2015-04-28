@@ -1,0 +1,12 @@
+ @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+ @prefix foaf : <http://xmlns.com/foaf/0.1/> .
+ @prefix wiki : <http://en.wikipedia.org/wiki/> .
+ @prefix work : <http://tobir.info/cv#> .
+ 
+ <http://tobir.info/me>
+ rdf:Type foaf:Person ;
+ foag:accounts <http://facebook.com/tobias.rentsch.9> , <http:youtube.com/tobias.rentsch> , <http://tobiiir.jimdo.com/> ;
+ foaf:interests wiki:Association_football , wiki:Sport_climbing , wiki:Bitcoin wiki:Photography ;
+ foaf:contact <mailto:tobias.rentsch@gmail.com> ;
+ foaf:friends <http://ledergerber91.ch> ;
+ foaf:experience work:sbb , work:rtc , work:csl , work:insel , education:bfh ;
